@@ -1,3 +1,7 @@
+# Hi! I'm Gerson Espinoza 
+
+![Front Page Image](https://github.com/dranceer/dranceer/blob/main/Front_Page_Image.jpg)
+
 # About Me:
 Professional with more than 6 years of experience in the field of Electronic Security and IT Support. Currently self-taught in learning programming with HTML, Astro, Python, Java, PostgreSQL and Github.
 
